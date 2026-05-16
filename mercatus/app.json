@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Mercatus",
+    "icon": "./assets/icon.png",
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#00897B"
+      }
+    },
+    "ios": {
+      "icon": "./assets/icon.png"
+    }
+  }
+}
